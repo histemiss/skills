@@ -1,0 +1,7 @@
+# Hermes internal state — not skills, never commit
+.bundled_manifest
+.curator_backups/
+.curator_ledger.jsonl
+.curator_state
+.usage.json
+.usage.json.lock
